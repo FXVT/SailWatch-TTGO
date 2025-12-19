@@ -1,5 +1,8 @@
 # SailWatch-TTGO
 Montre LILYGO ® TTGO T-Watch-2020 comme répéteur de données voile.
+
+https://www.youtube.com/watch?v=OMN1bNFpzgI
+
 ![TTGO SOG TTG ETA](Photos/IMG_20211127_141447.jpg)
 ![TTGO SOC VOLT AMP](Photos/IMG_20211127_141504.jpg)
 ![TTGO AWA TWS GWD](Photos/IMG_20211127_141525.jpg)
